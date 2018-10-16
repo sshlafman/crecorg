@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* our best function 2 */
+/* our best function */
 int main()
 {
    printf ("Hello, world!\n");
